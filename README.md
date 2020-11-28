@@ -1,0 +1,2 @@
+# edit_clock
+All clocks can have their times changed, so when a clock is going too fast or slow, the time can be changed to be correct again. Bob has a 24-hour clock (so 2:00 PM will be 14:00 instead), on which there are two buttons -- the H button and the M button, which increase the hour and minute, respectively, by one. Given the list of buttons Bob presses and the starting time, figure out what time Bob set his clock to.
